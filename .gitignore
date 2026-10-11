@@ -1,0 +1,10 @@
+# Tệp chứa biến môi trường và bí mật nhạy cảm
+.env
+*.env.local
+
+# Dữ liệu runtime và logs
+*.log
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
